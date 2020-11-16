@@ -9,14 +9,14 @@ Difficulty is calculated by the following formulas:<br>
 <br>
 The intput look like this:
 java Main in.txt -> pass a file
-
-Words: 1034
-Sentences: 140
-Characters: 6874
-Syllables: 2111
-Polysyllables: 177<br>
+<br>
+Words: 1034<br>
+Sentences: 140<br>
+Characters: 6874<br>
+Syllables: 2111<br>
+Polysyllables: 177<br><br>
 Enter the score you want to calculate (ARI, FK, SMOG, CL, all): all
- <br>
+ <br><br>
 Automated Readability Index: 7.08 (about 13 year olds).<br>
 Flesch–Kincaid readability tests: 6.31 (about 12 year olds).<br>
 Simple Measure of Gobbledygook: 9.42 (about 15 year olds).<br>
